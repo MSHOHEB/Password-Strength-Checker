@@ -96,3 +96,17 @@ No pip install needed! Pure Python only. ✅
 - **os & datetime** — File handling & timestamps
 
 ---
+## 📅 Daily Development Log
+
+| Date | Update |
+|------|--------|
+| Day 1 | ✅ Project created — Basic strength checker |
+| Day 2 | ✅ Added password generator feature |
+| Day 3 | ✅ Added save/view/delete passwords |
+| Day 4 | ✅ Added common password detection |
+| Day 5 | ✅ Added colored terminal output |
+| Day 6 | ✅ Added repeat character detection |
+| Day 7 | ✅ Improved error handling |
+| Day 8 | ✅ Updated README documentation |
+| Day 9 | ✅ Added more common passwords list |
+| Day 10 | ✅ Code cleanup and comments added |
