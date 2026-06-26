@@ -110,3 +110,4 @@ No pip install needed! Pure Python only. ✅
 | Day 8 | ✅ Updated README documentation |
 | Day 9 | ✅ Added more common passwords list |
 | Day 10 | ✅ Code cleanup and comments added |
+| Day 11 | ✅ Added email validation feature |
