@@ -111,3 +111,5 @@ No pip install needed! Pure Python only. ✅
 | Day 9 | ✅ Added more common passwords list |
 | Day 10 | ✅ Code cleanup and comments added |
 | Day 11 | ✅ Added email validation feature |
+| Day 12 | ✅ Added password expiry featureDay | 
+| Day 13 | ✅ Added master password protection |
